@@ -1,2 +1,5 @@
 config:
   name: meacial
+
+spring:
+ port: 8098
